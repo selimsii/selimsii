@@ -111,7 +111,7 @@ Project Partner: Zakaria Fakhouri
 ## 📫 Contact Me
 
 📧 selimcanovr@gmail.com 
-💼 [LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/selim-can-%C3%B6v%C3%BCr-287833208/))  
+💼 [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/selim-can-%C3%B6v%C3%BCr-287833208/))  
 
 ---
 
