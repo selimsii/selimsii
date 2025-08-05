@@ -68,7 +68,7 @@ These experiences support my ability to deliver complete embedded solutions from
   - HTTP and UDP-based cloud communication
   - Partition Scheme and Embedded File System Management
   - Safety-critical firmware handling and robust fail-safes  
-  Worked closely on sound engineering aspects including codec integration and timing-sensitive playback using limited resources.
+  - Worked closely on sound engineering aspects including codec integration and timing-sensitive playback using limited resources.
   - Captured 24-bit stereo audio from microphone over I2S, performed signal processing and format conversion (downsample to 16-bit mono) on the ESP32.  
   - Sent optimized audio streams to a server which then sent to cloud-based speech recognition API.  
   - This required custom buffer management, lightweight DSP techniques, and low-latency transport to enable efficient voice command recognition in an embedded environment.
@@ -111,8 +111,7 @@ Project Partner: Zakaria Fakhouri
 ## 📫 Contact Me
 
 📧 selimcanovr@gmail.com 
-💼 [LinkedIn](https://www.linkedin.com/in/selimcanovur](https://www.linkedin.com/in/selim-can-%C3%B6v%C3%BCr-287833208/))  
-💻 [GitHub](https://github.com/selimsii)
+💼 [LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/selim-can-%C3%B6v%C3%BCr-287833208/))  
 
 ---
 
