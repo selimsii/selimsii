@@ -1,8 +1,8 @@
 # Selim Can ÖVÜR
 
-🔧 Embedded Systems & AI Developer | IoT | R&D | Mechatronics Engineer  
+🔧 Embedded Systems & AI Developer | IoT | R&D | Mechatronics Engineer
 📍 Istanbul, Türkiye  
-🌐 [GitHub](https://github.com/selimcanovur) • [LinkedIn](https://www.linkedin.com/in/selimcanovur)
+🌐 [GitHub](https://github.com/selimsii) • [LinkedIn]([https://www.linkedin.com/in/selimsii](https://www.linkedin.com/in/selim-can-%C3%B6v%C3%BCr-287833208/))
 
 ---
 
@@ -17,7 +17,7 @@ I'm Selim Can ÖVÜR — an embedded systems and AI-focused mechatronics enginee
 - OTA (over-the-air) update mechanisms and device versioning
 - Backend integration using Flask APIs and custom queuing/database systems
 - AI integration with TTS, STT, LLM fine-tuning, CUDA, and G-Cloud services
-- Scalability Solutions For Real-Time Database-Transactions (RabbitMQ, Reddis Cache Microservice Applications) 
+- Scalability Solutions For Real-Time Database-Transactions (RabbitMQ, Reddis Cache Microservice Applications)
 
 ---
 
@@ -106,6 +106,7 @@ These experiences support my ability to deliver complete embedded solutions from
 Project Partner: Zakaria Fakhouri
 
 ---
+[![selimsii's GitHub stats](https://github-readme-stats.vercel.app/api?username=selimsii)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact Me
 
