@@ -117,7 +117,7 @@ These experiences support my ability to deliver complete embedded solutions from
 
 ## 📫 Contact Me
 
-[![Gmail](https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000)](selimcanovr@gmail.com)
+[![Gmail](https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000)](mailto:selimcanovr@gmail.com)
 [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/selim-can-%C3%B6v%C3%BCr-287833208/)  
 
 ---
