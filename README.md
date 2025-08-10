@@ -2,7 +2,7 @@
 
 🔧 Embedded Systems & AI Developer | IoT | R&D | Mechatronics Engineer
 📍 Istanbul, Türkiye  
-🌐 [GitHub](https://github.com/selimsii) • [LinkedIn]([https://www.linkedin.com/in/selimsii](https://www.linkedin.com/in/selim-can-%C3%B6v%C3%BCr-287833208/))
+🌐 [GitHub](https://github.com/selimovur) • [LinkedIn]([https://www.linkedin.com/in/selimsii](https://www.linkedin.com/in/selim-can-%C3%B6v%C3%BCr-287833208/))
 
 ---
 
@@ -10,7 +10,7 @@
 
 I'm Selim Can ÖVÜR — an embedded systems and AI-focused mechatronics engineer with hands-on experience in building real-world, production-level IoT systems. I focus on end-to-end solutions, from low-level device control to backend integration and AI system optimization.
 
-⚡ **Key Strengths**:
+### ⚡ **Key Strengths**:
 - Real-time communication protocols (UDP, HTTP)
 - Secure device communication with encryption and certificate-based authentication (mbedTLS, AES256, TLS)
 - Memory optimization and partitioning for low-cost embedded devices
@@ -20,8 +20,22 @@ I'm Selim Can ÖVÜR — an embedded systems and AI-focused mechatronics enginee
 - Scalability Solutions For Real-Time Database-Transactions (RabbitMQ, Reddis Cache Microservice Applications)
 
 ---
+### 🚀 Tech Stack: 
+<img src="https://img.icons8.com/?size=100&id=0txwEZ5rJ07z&format=png&color=000000" alt="CMake" width="8%" height="8%">
+<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C Programming" width="8%" height="8%">
+<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++ Programming" width="8%" height="8%">
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="8%" height="8%">
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node JS" width="8%" height="8%">
+<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" width="8%" height="8%">
+<img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" alt="Redis" width="8%" height="8%">
+<img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code" width="8%" height="8%">
+<img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="Arduino IDE" width="8%" height="8%">
+<img width="8%" height="8%" src="https://images.seeklogo.com/logo-png/40/1/espressif-systems-logo-png_seeklogo-407805.png" alt="Espressif Systems">
+<img  width="8%" height="8%" src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2020/10/microchip_round_logo.5f98339be1b13.png?auto=format%2Ccompress&amp;w=250&amp;width=250"  alt="Microchip Technology">
 
-⚡ **Electronics & PCB Design Experience**:
+---
+
+### ⚡ **Electronics & PCB Design Experience**:
 I have hands-on experience in PCB design and electronics prototyping, covering the complete development cycle from schematic design to board manufacturing and debugging.
 
 🛠 - Schematic & PCB Design: Skilled in KiCad, capable of designing PCBs with both analog and digital components.
@@ -99,20 +113,11 @@ These experiences support my ability to deliver complete embedded solutions from
 
 ---
 
-## 🧪 Patented Work
-
-**Title:** A Spring System with Adjustable Stiffness by Magnetic Field Force  
-**Patent ID:** [TR 2022/020512] – Turkish Patent and Trademark Office   
-Project Partner: Zakaria Fakhouri
-
----
-[![selimsii's GitHub stats](https://github-readme-stats.vercel.app/api?username=selimsii)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Contact Me
 
-📧 selimcanovr@gmail.com 
-💼 [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/selim-can-%C3%B6v%C3%BCr-287833208/))  
+[![Gmail](https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000)](selimcanovr@gmail.com)
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/selim-can-%C3%B6v%C3%BCr-287833208/)  
 
 ---
 
-> I enjoy building efficient and secure embedded solutions — from protocol design to cloud integration and AI systems.
+> I enjoy building efficient and secure mechatronics solutions — from protocol design to cloud integration and AI systems.
