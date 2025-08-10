@@ -21,17 +21,19 @@ I'm Selim Can ÖVÜR — an embedded systems and AI-focused mechatronics enginee
 
 ---
 ### 🚀 Tech Stack: 
-<img src="https://img.icons8.com/?size=100&id=0txwEZ5rJ07z&format=png&color=000000" alt="CMake" width="8%" height="8%">
-<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C Programming" width="8%" height="8%">
-<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++ Programming" width="8%" height="8%">
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="8%" height="8%">
-<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node JS" width="8%" height="8%">
-<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" width="8%" height="8%">
-<img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" alt="Redis" width="8%" height="8%">
-<img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code" width="8%" height="8%">
-<img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="Arduino IDE" width="8%" height="8%">
-<img width="8%" height="8%" src="https://images.seeklogo.com/logo-png/40/1/espressif-systems-logo-png_seeklogo-407805.png" alt="Espressif Systems">
-<img  width="8%" height="8%" src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2020/10/microchip_round_logo.5f98339be1b13.png?auto=format%2Ccompress&amp;w=250&amp;width=250"  alt="Microchip Technology">
+<p align="center">
+<img src="https://img.icons8.com/?size=100&id=0txwEZ5rJ07z&format=png&color=000000" alt="CMake" width="50" height="50">
+<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C Programming" width="50" height="50">
+<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++ Programming" width="50" height="50">
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50" height="50">
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node JS" width="50" height="50">
+<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Docker" width="50" height="50">
+<img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" alt="Redis" width="50" height="50">
+<img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code" width="50" height="50">
+<img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="Arduino IDE" width="50" height="50">
+<img width="50" height="50" src="https://images.seeklogo.com/logo-png/40/1/espressif-systems-logo-png_seeklogo-407805.png" alt="Espressif Systems">
+<img width="50" height="50" src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2020/10/microchip_round_logo.5f98339be1b13.png?auto=format%2Ccompress&w=250&width=250" alt="Microchip Technology">
+</p>
 
 ---
 
