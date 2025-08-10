@@ -32,7 +32,7 @@ I'm Selim Can ÖVÜR — an embedded systems and AI-focused mechatronics enginee
 <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code" width="50" height="50">
 <img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="Arduino IDE" width="50" height="50">
 <img width="50" height="50" src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="Espressif Systems">
-<img width="100" height="100" src="https://www.pngfind.com/pngs/m/132-1327410_microchip-technology-logo-hd-png-download.png" alt="Microchip Technology">
+<img width="100" height="100" src="https://companieslogo.com/img/orig/MCHP-167156da.png?t=1720244492" alt="Microchip Technology">
 </p>
 
 ---
