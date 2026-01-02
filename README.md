@@ -54,24 +54,6 @@ I have hands-on experience in PCB design and electronics prototyping, covering t
 
 These experiences support my ability to deliver complete embedded solutions from hardware design to fully functioning firmware.
 
-## 💼 Work Experience
-
-### 🔸 AI R&D | Product Development (Jul 2025 – Present)
-- Working on LLM fine-tuning, speech-to-text (STT), dataset optimization
-- Experience with Google Cloud, Transformer architectures, CUDA workers, and Python packaging systems
-
-### 🔸 Embedded Systems & IoT Engineer (Aug 2023 – Jul 2025)
-- Led a team in a full-featured AI-integrated IoT product
-- Developed custom encrypted UDP communication using mbedTLS and AES256
-- Implemented HTTP mutual TLS authentication with device-side certificates
-- Reduced processing cost with memory-efficient approaches (buffering, streaming, encryption)
-- Designed OTA and firmware version control systems for remote embedded devices
-- Built backend mechanisms: message queues, databases, API gateways
-- Integrated reverse proxy services like Nginx for secure routing
-- Worked directly with hardware for testing, certification (EMC, EMI, safety), and debugging
-
----
-
 ## 🚀 Selected Projects
 
 - **TM1650 Display Driver**: A custom driver written in C++ to control multiple TM1650-based 4-digit 7-segment display modules using a shared clock line  
